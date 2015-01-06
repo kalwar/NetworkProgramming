@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Author and References
 This program is done by
-Student name:: Santosh Kumar Kalwar
+Student name:: Santosh Kalwar
 Student number:: 0331927
 Reference taken from 
 http://www.it.lut.fi/kurssit/07-08/CT30A5000/home-exam.html
