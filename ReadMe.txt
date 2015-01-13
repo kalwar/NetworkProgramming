@@ -61,8 +61,7 @@ Step 1:
 ./FTPClient
 Use: ./FTPClient -p <FTP server port> -P <data transfer port> -h <ftp server address>
 
-
- ./FTPClient -p 21 -P 20005 -h venla.it.lut.fi
+./FTPClient -p 21 -P 20005 -h venla.it.lut.fi
 
 *******************************************************************
  Welcome to File Transfer Protocol (FTP Client) based on RFC 959
